@@ -1,4 +1,4 @@
-package com.rjs.studio.metamore.security;
+package com.rjs.code.studio.metamore.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
